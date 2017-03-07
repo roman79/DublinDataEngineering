@@ -14,7 +14,7 @@ The Open Source resources in Data Engineering, Machine Learning, Data Science ar
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
 
 
-## Introduction to (Python Pandas)
+## Introduction to Python (Pandas package)
 
 **Pandas package is a part of Anaconda Distribution**
 
@@ -22,4 +22,5 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 * [Intro to pandas data structures by Greg Reda](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
-* **Python for Data Analysis** is a good book to start, written by Wes McKinney the creator of Pandas package. The second book is planing to release in August 2017.
+* **Python for Data Analysis** is a good book to start, written by Wes McKinney the main author of Pandas package. The second book is planning to release in August 2017.
+
