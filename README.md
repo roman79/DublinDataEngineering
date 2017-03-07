@@ -16,6 +16,9 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 ## Introduction to Python (Pandas package)
 
+
+* [Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.](https://www.python.org/about/)
+
 **Pandas package is a part of Anaconda Distribution**
 
 * [Introduction to Panda](http://pandas.pydata.org/pandas-docs/stable/10min.html)
