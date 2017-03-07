@@ -21,6 +21,8 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 **Pandas package is a part of Anaconda Distribution**
 
+**Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.**
+
 * [Introduction to Panda](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 * [Intro to pandas data structures by Greg Reda](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
