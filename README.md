@@ -30,3 +30,9 @@ Pandas is an open source, BSD-licensed library providing high-performance, easy-
 * **Python for Data Analysis** is a good book to start, written by Wes McKinney the main author of Pandas package. The second book is planning to release in August 2017.
 
 ## Introduction to Python (Numpy library)
+
+* NumPy is the fundamental package for scientific computing with Python. http://www.numpy.org/
+
+* Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. http://matplotlib.org/
+
+* Seaborn is a Python visualization library based on matplotlib. https://seaborn.pydata.org/
