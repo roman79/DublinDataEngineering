@@ -2,7 +2,7 @@
 #Execute commands in  Cloudera quickstart VM.
 
 1 Open google page and search for shakespeare.txt or http://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt .
-2 Download t8.shakespeare.txt file and save it as words.txt . 
+2 Download t8.shakespeare.txt file and save it as shakespeare.txt . 
 3 Open terminal shell.
 4 Run cd Downloads #to change to the Downloads directory.
 5 Run ls # we are looking for shakespeare.txt
