@@ -9,5 +9,5 @@ Cloudera, Hortonworks and MapR  provide the core pre-built software stacks for f
 
 [Apache Hadoop ecosystem    over 100 projects.](https://hadoopecosystemtable.github.io/)
 
-[Hadoop Ecosystem](img/hadoopecosystem.png)
+![Hadoop Ecosystem](img/hadoopecosystem.png)
 
