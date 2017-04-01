@@ -11,11 +11,11 @@ Cloudera, Hortonworks and MapR  provide the core pre-built software stacks for f
 
 ![Hadoop Ecosystem](img/hadoopecosystem.png)
 
-[Cloudera Diagram.](https://www.cloudera.com/products/open-source/apache-hadoop/hdfs-mapreduce-yarn.html)
-
 ![Cloudera](img/cloudera.png)
 
-##The main parts of Hadoop:
+[Cloudera link](https://www.cloudera.com/products/open-source/apache-hadoop/hdfs-mapreduce-yarn.html)
+
+## The main parts of Hadoop:
 
 HDFS The Hadoop distributed file system is a scalable, fault-tolerant (reliable), distributed storage system that works closely with a wide variety of concurrent data access applications.  HDFS is the foundation for many big data frameworks. https://hortonworks.com/apache/hdfs/
 
