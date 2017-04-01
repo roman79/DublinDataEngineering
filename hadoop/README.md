@@ -98,6 +98,6 @@ Install VirtualBox and Cloudera Quickstart_vms 5-8 on your computer. [Instructio
 
 Copy files into and out of the HDFS via command-line interface. [Instruction](exercises/HDFS_Instruction.txt)
 
-MapReduce WordCount and copy the results from WordCount out of HDFS. [Instruction](exercises/MapReduce_Instruction_v1.txt)
+Perform MapReduce WordCount and copy the results from WordCount out of HDFS. [Instruction](exercises/MapReduce_Instruction_v1.txt)
 
 Scoop and Hive https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html
