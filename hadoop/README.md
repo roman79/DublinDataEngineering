@@ -94,7 +94,7 @@ https://hadoop.apache.org/
 
 ## Exercises:
 
-Install VirtualBox on your computer and Cloudera Quickstart_vms 5-8. [Instruction](exercises/Instalation_InstructionsVirtualBox_QuickstartVM5.8.txt)
+Install VirtualBox and Cloudera Quickstart_vms 5-8 on your computer. [Instruction](exercises/Instalation_InstructionsVirtualBox_QuickstartVM5.8.txt)
 
 Copy files into and out of the HDFS via command-line interface. [Instruction](exercises/HDFS_Instruction.txt)
 
