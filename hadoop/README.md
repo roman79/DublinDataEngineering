@@ -57,8 +57,11 @@ WordCount reads one or more text files, and counts the number of occurrences of 
 ![WordCount](img/wordcount.png)
 
 0 File is stored in HDFS
-1 Map on each node  Map generates key-value pairs     
+
+1 Map on each node  Map generates key-value pairs   
+  
 2 Sort and Shuffle  Pairs with same key moved to same node   
+
 3 Reduce    add values for same keys     
 
 
@@ -91,10 +94,10 @@ https://hadoop.apache.org/
 
 ## Exercises:
 
-Install VirtualBox on your computer and Cloudera Quickstart_vms 5-8. [Instructions](exercises/Instalation_InstructionsVirtualBox_QuickstartVM5.8.txt)
+Install VirtualBox on your computer and Cloudera Quickstart_vms 5-8. [Instruction](exercises/Instalation_InstructionsVirtualBox_QuickstartVM5.8.txt)
 
-Copy files into and out of the HDFS via command-line interface. [Instructions](exercises/HDFS_Instruction.txt)
+Copy files into and out of the HDFS via command-line interface. [Instruction](exercises/HDFS_Instruction.txt)
 
-MapReduce WordCount and copy the results from WordCount out of HDFS. [Instructions](exercises/MapReduce_Instruction_v1.txt)
+MapReduce WordCount and copy the results from WordCount out of HDFS. [Instruction](exercises/MapReduce_Instruction_v1.txt)
 
 Scoop and Hive https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html
