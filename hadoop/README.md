@@ -64,6 +64,7 @@ WordCount reads one or more text files, and counts the number of occurrences of 
 
 
 https://hortonworks.com/apache/mapreduce/
+
 https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
 
 
@@ -71,8 +72,29 @@ https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-c
 
 **Pig** is a high level data flow language that adds capabilities that help with process map modelling. 
      
-**Impala** Query your data with SQL directly accessing HDFS (bypassing compile to Map/Reduce). It is faster than Hive.
+**Cloudera Impala** is Cloudera's open source massively parallel processing (MPP) SQL query engine for data stored in a computer cluster running Apache Hadoop. 
 
 **Sqoop/Flume**	Puts data into cluster in relational db format
 
-**HBase** Real-time DB built on HDFS
+**Spark** is a fast and general compute engine for Hadoop data. Spark provides a simple and expressive programming model that supports a wide range of applications, including ETL, machine learning, stream processing, and graph computation.
+
+**Mahout** is a Scalable machine learning and data mining library.
+
+**HBase** is a scalable, distributed database that supports structured data storage for large tables.
+
+**Cassandra** is a scalable multi-master database with no single points of failure.
+
+**ZooKeeper** is a high-performance coordination service for distributed applications.
+
+https://hadoop.apache.org/
+
+
+## Exercises:
+
+Install VirtualBox on your computer and Cloudera Quickstart_vms 5-8. [Instructions](exercises/Instalation_InstructionsVirtualBox_QuickstartVM5.8.txt)
+
+Copy files into and out of the HDFS via command-line interface. [Instructions](exercises/HDFS_Instruction.txt)
+
+MapReduce WordCount and copy the results from WordCount out of HDFS. [Instructions](exercises/MapReduce_Instruction_v1.txt)
+
+Scoop and Hive https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/exercise-1.html
