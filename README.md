@@ -1,11 +1,13 @@
 # DublinDataEngineering
 
-The Open Source resources in Data Engineering, Machine Learning, Data Science areas, inspired by [The Open-Source Data Science Masters] (http://datasciencemasters.org/).
+The Open Source resources in Data Engineering, Machine Learning, Data Science areas, inspired by [The Open-Source Data Science Masters] (http://datasciencemasters.org/)
 
 
 ## Toolset
 
-* [Anaconda Distribution](https://git-scm.com/)
+* [Git](https://git-scm.com/)
+
+* [Anaconda Distribution](https://www.continuum.io/downloads)
 
 * [Link to the Jupyter Notebook features](http://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
 
