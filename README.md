@@ -41,4 +41,25 @@ Pandas is an open source, BSD-licensed library providing high-performance, easy-
 
 ## Data Wrangling with Python
 
+Data wrangling is about taking a messy or unrefined source of data and turning it into something useful.
 
+
+Data Wrangling Stages
+
+* Formulating a question 
+
+* Data Acquisition 
+
+* Data Cleaning
+
+* Data Exploration
+
+* Communicating the data findings 
+
+* Scaling with larger datasets
+
+* Automating the process
+
+Source  Data Wrangling with Python by Jacqueline Kazil, Katharine Jarmul.
+
+[Data Wrangling with Python notebook](DataWranglingPython.ipynb)
