@@ -60,6 +60,9 @@ Data Wrangling Stages
 
 * Automating the process
 
-Source  Data Wrangling with Python by Jacqueline Kazil, Katharine Jarmul.
+Source  **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul.
 
 [Data Wrangling with Python notebook](DataWranglingPython.ipynb)
+
+[House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
