@@ -66,5 +66,5 @@ Source  **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul.
 
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-Done!
+
 
