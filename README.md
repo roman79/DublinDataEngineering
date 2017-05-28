@@ -64,5 +64,13 @@ Source  **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul.
 
 [Data Wrangling with Python notebook](DataWranglingPython.ipynb)
 
-[Introduction to Scikit-Learn notebook](IntroductionToScikitLearn.ipynb.ipynb)
+
+
+## Machine Learning with Python
+
+**Introduction to Machine Learning with Python** by  Andreas C. Mueller , Sarah Guido 
+
+**Supervised Learning: Classification and Regression**
+
+[Introduction to Scikit-Learn notebook](IntroductionToScikitLearn.ipynb)
 
