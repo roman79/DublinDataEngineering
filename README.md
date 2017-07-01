@@ -74,3 +74,6 @@ Source  **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul.
 
 [Introduction to Scikit-Learn notebook](IntroductionToScikitLearn.ipynb)
 
+**Unsupervised Learning: Clustering, Dimensionality Reduction**
+
+[Introduction to Scikit-Learn notebook2](IntroductionToScikitLearn2.ipynb)
